@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auliaaqshal
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Data Scientist and Machine Learning
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate and learn more about progamming
 - 📫 You can contact on my email at @auliaaqshal@gmail.com
 
